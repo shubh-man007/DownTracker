@@ -1,0 +1,620 @@
+{
+  "feed_state": {
+    "LastBuildDate": "Sat, 21 Feb 2026 04:16:39 GMT",
+    "ItemCount": 62,
+    "Items": {
+      "https://status.openai.com//incidents/01KHYH2KT8VNWS146V0S09MF29": {
+        "Title": "Increased latency in ChatGPT for some users",
+        "PubDate": "Fri, 20 Feb 2026 22:44:27 GMT",
+        "Status": "Resolved",
+        "Components": [
+          "Conversations"
+        ]
+      },
+      "https://status.openai.com//incidents/01KHRP7P1JF885BYA8SDWBDBR1": {
+        "Title": "Sora 2 Degraded Performance",
+        "PubDate": "Wed, 18 Feb 2026 16:40:22 GMT",
+        "Status": "Resolved",
+        "Components": [
+          "Video generation"
+        ]
+      },
+      "https://status.openai.com//incidents/01KHM3D6HBAX95H7V8MXHNKDK6": {
+        "Title": "Shopping Research Feature Down",
+        "PubDate": "Mon, 16 Feb 2026 21:12:32 GMT",
+        "Status": "Resolved",
+        "Components": [
+          "Search"
+        ]
+      },
+      "https://status.openai.com//incidents/01KHKQWHXEF4WJY8WGX24RA07R": {
+        "Title": "Increased error rates on Codex Cloud",
+        "PubDate": "Mon, 16 Feb 2026 17:47:39 GMT",
+        "Status": "Resolved",
+        "Components": [
+          "Codex"
+        ]
+      },
+      "https://status.openai.com//incidents/01KHENBA61A9PJHE092HXW60RA": {
+        "Title": "Delays in Support Email Processing",
+        "PubDate": "Sat, 14 Feb 2026 20:44:09 GMT",
+        "Status": "Resolved",
+        "Components": []
+      },
+      "https://status.openai.com//incidents/01KHB0X2GYKJEW6WV3G1SFYPCE": {
+        "Title": "High errors with image generation",
+        "PubDate": "Sat, 14 Feb 2026 04:24:08 GMT",
+        "Status": "Resolved",
+        "Components": [
+          "Images",
+          "Image Generation"
+        ]
+      },
+      "https://status.openai.com//incidents/01KH9WCWZ41K9ST9FGB1V15DFC": {
+        "Title": "ChatGPT Conversation Issues",
+        "PubDate": "Thu, 12 Feb 2026 21:56:32 GMT",
+        "Status": "Resolved",
+        "Components": [
+          "Conversations"
+        ]
+      },
+      "https://status.openai.com//incidents/01KH94NGSXNH9H4WBPXB3RFZWX": {
+        "Title": "high error rate in text-embedding-3-small",
+        "PubDate": "Thu, 12 Feb 2026 17:52:34 GMT",
+        "Status": "Resolved",
+        "Components": [
+          "Embeddings"
+        ]
+      },
+      "https://status.openai.com//incidents/01KH6RJWMT97BTHSBKA6M8Q0RY": {
+        "Title": "Some users may experience issues starting conversations in ChatGPT",
+        "PubDate": "Thu, 12 Feb 2026 16:59:17 GMT",
+        "Status": "Resolved",
+        "Components": [
+          "Conversations"
+        ]
+      },
+      "https://status.openai.com//incidents/01KH4VF39Y6NSS91NZYH848EA5": {
+        "Title": "Increased login errors for ChatGPT",
+        "PubDate": "Wed, 11 Feb 2026 00:41:00 GMT",
+        "Status": "Resolved",
+        "Components": [
+          "Login"
+        ]
+      },
+      "https://status.openai.com//incidents/01KH4JT5918MVR5R63YPB50APM": {
+        "Title": "Increased error rates for ChatGPT Go",
+        "PubDate": "Tue, 10 Feb 2026 20:57:50 GMT",
+        "Status": "Resolved",
+        "Components": [
+          "Conversations"
+        ]
+      },
+      "https://status.openai.com//incidents/01KH472QRYMZASAAXB8CE74QBY": {
+        "Title": "GPT 5.2 Elevated Error Rates",
+        "PubDate": "Tue, 10 Feb 2026 19:29:41 GMT",
+        "Status": "Resolved",
+        "Components": [
+          "Conversations"
+        ]
+      },
+      "https://status.openai.com//incidents/01KH1KTV2VBD62R0MRZFJ13XNE": {
+        "Title": "Codex Cloud issues due to Github Dependencies",
+        "PubDate": "Mon, 09 Feb 2026 20:23:04 GMT",
+        "Status": "Resolved",
+        "Components": [
+          "Codex"
+        ]
+      },
+      "https://status.openai.com//incidents/01KGVN79RRX11YCQZ52C68ZT1N": {
+        "Title": "Some ChatGPT users may be experiencing issues with loading conversations",
+        "PubDate": "Sat, 07 Feb 2026 09:11:19 GMT",
+        "Status": "Resolved",
+        "Components": [
+          "Conversations"
+        ]
+      },
+      "https://status.openai.com//incidents/01KGNJACX0T5CYY1YWS8RNW6S6": {
+        "Title": "Increased ChatGPT errors for some users",
+        "PubDate": "Thu, 05 Feb 2026 00:48:56 GMT",
+        "Status": "Resolved",
+        "Components": [
+          "ChatGPT Atlas",
+          "File uploads",
+          "Voice mode",
+          "Agent",
+          "Codex",
+          "Connectors/Apps",
+          "Login",
+          "Search",
+          "Conversations",
+          "Compliance API",
+          "Image Generation",
+          "GPTs",
+          "Deep Research"
+        ]
+      },
+      "https://status.openai.com//incidents/01KGMVV926ZSCD1MSDBS07AWYA": {
+        "Title": "ChatGPT Availability Impacted",
+        "PubDate": "Wed, 04 Feb 2026 21:04:35 GMT",
+        "Status": "Resolved",
+        "Components": [
+          "Login",
+          "File uploads",
+          "Compliance API",
+          "Image Generation",
+          "GPTs",
+          "Deep Research",
+          "Connectors/Apps",
+          "ChatGPT Atlas",
+          "Voice mode",
+          "Search",
+          "Conversations",
+          "Agent",
+          "Codex"
+        ]
+      },
+      "https://status.openai.com//incidents/01KGMAYN6EHDVR9KB1CQJP4EGR": {
+        "Title": "Custom GPT updates are failing for users",
+        "PubDate": "Wed, 04 Feb 2026 14:51:53 GMT",
+        "Status": "Resolved",
+        "Components": [
+          "GPTs"
+        ]
+      },
+      "https://status.openai.com//incidents/01KGK3YJB8CPX0TJY924H02TZW": {
+        "Title": "Some users may experience issues loading or starting conversations",
+        "PubDate": "Wed, 04 Feb 2026 03:46:42 GMT",
+        "Status": "Resolved",
+        "Components": [
+          "Conversations"
+        ]
+      },
+      "https://status.openai.com//incidents/01KGJMMMDDYD8RYNEVFNVYG99F": {
+        "Title": "Elevated error rates for finetuning jobs",
+        "PubDate": "Tue, 03 Feb 2026 23:32:01 GMT",
+        "Status": "Resolved",
+        "Components": [
+          "Fine-tuning"
+        ]
+      },
+      "https://status.openai.com//incidents/01KGJK9Q6PDB3C3VX6MPCY6106": {
+        "Title": "Elevated error rates for ChatGPT and Platform users",
+        "PubDate": "Tue, 03 Feb 2026 22:14:03 GMT",
+        "Status": "Resolved",
+        "Components": [
+          "Login",
+          "Compliance API",
+          "Image Generation",
+          "Agent",
+          "Deep Research",
+          "Connectors/Apps",
+          "File uploads",
+          "Voice mode",
+          "Search",
+          "Conversations",
+          "GPTs",
+          "Login",
+          "Codex",
+          "ChatGPT Atlas"
+        ]
+      },
+      "https://status.openai.com//incidents/01KG80XW6H509B6MVRE05W99SF": {
+        "Title": "Some ChatGPT users may be experiencing issues with their subscription renewals",
+        "PubDate": "Sat, 31 Jan 2026 23:00:45 GMT",
+        "Status": "Resolved",
+        "Components": [
+          "Login"
+        ]
+      },
+      "https://status.openai.com//incidents/01KG8A252RVEHGC7EMP11JY9M8": {
+        "Title": "Some Android users may be experiencing errors when signing up for ChatGPT with Google Authentication",
+        "PubDate": "Sat, 31 Jan 2026 00:21:35 GMT",
+        "Status": "Resolved",
+        "Components": [
+          "Login"
+        ]
+      },
+      "https://status.openai.com//incidents/01KG13K239MSN2R3S015E2WMY1": {
+        "Title": "Brief Issue with Image Generation Results",
+        "PubDate": "Wed, 28 Jan 2026 02:14:26 GMT",
+        "Status": "Resolved",
+        "Components": [
+          "Image Generation",
+          "Image Generation",
+          "Images"
+        ]
+      },
+      "https://status.openai.com//incidents/01KFZB0A5C1D3TQED136VXFT9W": {
+        "Title": "Elevated Codex Error Rate",
+        "PubDate": "Tue, 27 Jan 2026 11:03:26 GMT",
+        "Status": "Resolved",
+        "Components": [
+          "Codex"
+        ]
+      },
+      "https://status.openai.com//incidents/01KFXHMCMQE0EWA7R8RM5F9YW2": {
+        "Title": "ChatGPT availability degraded for free and logged out users",
+        "PubDate": "Mon, 26 Jan 2026 17:27:46 GMT",
+        "Status": "Resolved",
+        "Components": [
+          "Compliance API",
+          "Image Generation",
+          "Agent",
+          "Codex",
+          "Connectors/Apps",
+          "Login",
+          "File uploads",
+          "Search",
+          "GPTs",
+          "Deep Research",
+          "ChatGPT Atlas",
+          "Voice mode",
+          "Conversations"
+        ]
+      },
+      "https://status.openai.com//incidents/01KFK1A9AAJ246K5G966PSQQJK": {
+        "Title": "Codex Github Issues",
+        "PubDate": "Thu, 22 Jan 2026 14:55:44 GMT",
+        "Status": "Resolved",
+        "Components": [
+          "Codex"
+        ]
+      },
+      "https://status.openai.com//incidents/01KEWWZ8Y87E1WFFQQJZAM0GMK": {
+        "Title": "Elevated error rates for ChatGPT users",
+        "PubDate": "Wed, 14 Jan 2026 01:03:43 GMT",
+        "Status": "Resolved",
+        "Components": [
+          "Conversations"
+        ]
+      },
+      "https://status.openai.com//incidents/01KESV314P64MK8XSV6Q5DCDJ2": {
+        "Title": "Connectors/Apps unselectable in ChatGPT Input Menu",
+        "PubDate": "Mon, 12 Jan 2026 19:45:05 GMT",
+        "Status": "Resolved",
+        "Components": [
+          "Connectors/Apps"
+        ]
+      },
+      "https://status.openai.com//incidents/01KEFMJWBHC4JBGJWMXNQTSTH6": {
+        "Title": "Increased error rate for ChatGPT and API for prompts with images",
+        "PubDate": "Thu, 08 Jan 2026 21:12:00 GMT",
+        "Status": "Resolved",
+        "Components": [
+          "Conversations",
+          "Chat Completions",
+          "Responses"
+        ]
+      },
+      "https://status.openai.com//incidents/01KEDRBQ2A3Y9JJ7G3F3YM4KT3": {
+        "Title": "High error rate for Dall-e",
+        "PubDate": "Thu, 08 Jan 2026 02:45:00 GMT",
+        "Status": "Resolved",
+        "Components": [
+          "Images"
+        ]
+      },
+      "https://status.openai.com//incidents/01KEDP2078ND35EQG75BVDZE5E": {
+        "Title": "Some Codex cloud tasks are failing",
+        "PubDate": "Thu, 08 Jan 2026 02:30:50 GMT",
+        "Status": "Resolved",
+        "Components": [
+          "Codex"
+        ]
+      },
+      "https://status.openai.com//incidents/01KEDB9WGPMX6HK8X629AFM907": {
+        "Title": "Elevated error rates for Responses API",
+        "PubDate": "Wed, 07 Jan 2026 23:53:27 GMT",
+        "Status": "Resolved",
+        "Components": [
+          "Responses"
+        ]
+      },
+      "https://status.openai.com//incidents/01KEACZ6R02744RQKCMSK1ZG54": {
+        "Title": "ChatGPT issues while retrieving workspace members",
+        "PubDate": "Tue, 06 Jan 2026 21:00:00 GMT",
+        "Status": "Resolved",
+        "Components": [
+          "Connectors/Apps",
+          "ChatGPT Atlas",
+          "File uploads",
+          "Voice mode",
+          "Search",
+          "Conversations",
+          "Compliance API",
+          "Image Generation",
+          "GPTs",
+          "Agent",
+          "Login",
+          "Deep Research",
+          "Codex"
+        ]
+      },
+      "https://status.openai.com//incidents/01KE98V1TQRRQC8T1VAHH18NDC": {
+        "Title": "GPT-5.1 Codex Max Elevated Error Rate",
+        "PubDate": "Tue, 06 Jan 2026 09:56:06 GMT",
+        "Status": "Resolved",
+        "Components": [
+          "Responses"
+        ]
+      },
+      "https://status.openai.com//incidents/01KD9TAC2AVM41E7FSGE3X0B9J": {
+        "Title": "Some User May Experience Issues Loading Conversation History and Downloading Files from Custom GPTs",
+        "PubDate": "Thu, 25 Dec 2025 09:41:27 GMT",
+        "Status": "Resolved",
+        "Components": [
+          "Conversations",
+          "GPTs"
+        ]
+      },
+      "https://status.openai.com//incidents/01KD19S888P8SGB2TFB82DWCW8": {
+        "Title": "Some Android users are experiencing elevated errors while using ChatGPT.",
+        "PubDate": "Sun, 21 Dec 2025 21:33:27 GMT",
+        "Status": "Resolved",
+        "Components": [
+          "Voice mode",
+          "Search",
+          "GPTs",
+          "ChatGPT Atlas",
+          "Login",
+          "Conversations",
+          "Compliance API",
+          "Image Generation",
+          "Agent",
+          "Deep Research",
+          "Codex",
+          "Connectors/Apps",
+          "File uploads"
+        ]
+      },
+      "https://status.openai.com//incidents/01KCTM1YZ1AW72M9JVW48TNJES": {
+        "Title": "Increased error rates for Sora API",
+        "PubDate": "Fri, 19 Dec 2025 06:58:21 GMT",
+        "Status": "Resolved",
+        "Components": [
+          "Sora"
+        ]
+      },
+      "https://status.openai.com//incidents/01KCT3221DKSNWZ6QABP6V2ZE6": {
+        "Title": "Degraded latency and increased error rates for Sora API",
+        "PubDate": "Fri, 19 Dec 2025 01:25:31 GMT",
+        "Status": "Resolved",
+        "Components": [
+          "Sora"
+        ]
+      },
+      "https://status.openai.com//incidents/01KCQ4D84M0KCBPNCENAV6B8GZ": {
+        "Title": "ChatGPT intermittently not loading successfully after SSO authentication",
+        "PubDate": "Thu, 18 Dec 2025 22:46:43 GMT",
+        "Status": "Resolved",
+        "Components": [
+          "Login"
+        ]
+      },
+      "https://status.openai.com//incidents/01KCSQV59E8XZETJ89JTXME2AZ": {
+        "Title": "Unable to Login on Sora Web",
+        "PubDate": "Thu, 18 Dec 2025 22:34:58 GMT",
+        "Status": "Resolved",
+        "Components": [
+          "Login"
+        ]
+      },
+      "https://status.openai.com//incidents/01KCQ5FA8SEDPNZSZEH27V2H5X": {
+        "Title": "Finetuning jobs are intermittently failing",
+        "PubDate": "Thu, 18 Dec 2025 09:29:21 GMT",
+        "Status": "Resolved",
+        "Components": [
+          "Fine-tuning"
+        ]
+      },
+      "https://status.openai.com//incidents/01KCM7PAMQMCM8KAB6ZCWPKNK1": {
+        "Title": "Codex & Responses API Experiencing Elevated Errors",
+        "PubDate": "Wed, 17 Dec 2025 04:12:31 GMT",
+        "Status": "Resolved",
+        "Components": [
+          "Responses",
+          "Codex"
+        ]
+      },
+      "https://status.openai.com//incidents/01KCJNVGXP42TJC4GXA17GMGXY": {
+        "Title": "High Error Rate in Image API",
+        "PubDate": "Tue, 16 Dec 2025 05:23:17 GMT",
+        "Status": "Resolved",
+        "Components": [
+          "Images"
+        ]
+      },
+      "https://status.openai.com//incidents/01KC2MV5CHD4DX8A76FT4QEZEV": {
+        "Title": "ChatGPT connectors have disconnected unexpectedly",
+        "PubDate": "Fri, 12 Dec 2025 23:11:55 GMT",
+        "Status": "Resolved",
+        "Components": [
+          "Connectors/Apps"
+        ]
+      },
+      "https://status.openai.com//incidents/01KC6WSFM4ECT1Y5XBPF2AMXV9": {
+        "Title": "Github Connector Errors for ChatGPT Web and Codex",
+        "PubDate": "Fri, 12 Dec 2025 19:52:11 GMT",
+        "Status": "Resolved",
+        "Components": [
+          "Connectors/Apps",
+          "Codex"
+        ]
+      },
+      "https://status.openai.com//incidents/01KC7JXZX3G02HQVS9AHYT86J8": {
+        "Title": "Elevated error rate for 5.2 Auto and 5.2 Instant",
+        "PubDate": "Thu, 11 Dec 2025 23:11:30 GMT",
+        "Status": "Resolved",
+        "Components": [
+          "Conversations"
+        ]
+      },
+      "https://status.openai.com//incidents/01KC56SP6M152HGWAF6EAFQR2E": {
+        "Title": "Increased Errors On Android Devices",
+        "PubDate": "Wed, 10 Dec 2025 23:27:08 GMT",
+        "Status": "Resolved",
+        "Components": [
+          "File uploads",
+          "Voice mode",
+          "Compliance API",
+          "Image Generation",
+          "Deep Research",
+          "Codex",
+          "ChatGPT Atlas",
+          "Login",
+          "Search",
+          "Conversations",
+          "GPTs",
+          "Agent",
+          "Connectors/Apps"
+        ]
+      },
+      "https://status.openai.com//incidents/01KC2CJTQMDW8ZX3S4S4Q8PPNQ": {
+        "Title": "Issues related to Codex Web, Code Reviews",
+        "PubDate": "Tue, 09 Dec 2025 21:21:03 GMT",
+        "Status": "Resolved",
+        "Components": [
+          "Codex"
+        ]
+      },
+      "https://status.openai.com//incidents/01KC29PD396379J8W4GRZ3F185": {
+        "Title": "ChatGPT advanced voice mode issues",
+        "PubDate": "Tue, 09 Dec 2025 20:09:59 GMT",
+        "Status": "Resolved",
+        "Components": [
+          "Voice mode"
+        ]
+      },
+      "https://status.openai.com//incidents/01KBZQFTJVFKP90HA3QJ7Q3WBY": {
+        "Title": "Github Authentication errors with Codex Web",
+        "PubDate": "Tue, 09 Dec 2025 05:55:32 GMT",
+        "Status": "Resolved",
+        "Components": [
+          "Codex"
+        ]
+      },
+      "https://status.openai.com//incidents/01KBP2P87WZ8SS9KWJ8YBWYZAG": {
+        "Title": "ChatGPT Slack Connector cannot be installed",
+        "PubDate": "Fri, 05 Dec 2025 04:26:19 GMT",
+        "Status": "Resolved",
+        "Components": [
+          "Connectors/Apps"
+        ]
+      },
+      "https://status.openai.com//incidents/01KBP4P84R3ZVWYDG6DNY7MHYA": {
+        "Title": "CustomGPT Allow/Deny button not appeared",
+        "PubDate": "Fri, 05 Dec 2025 04:23:59 GMT",
+        "Status": "Resolved",
+        "Components": [
+          "GPTs"
+        ]
+      },
+      "https://status.openai.com//incidents/01KBHVXKVF77A6CB8CX96BY4R6": {
+        "Title": "ChatGPT Conversation Errors for Business and Enterprise",
+        "PubDate": "Wed, 03 Dec 2025 10:53:43 GMT",
+        "Status": "Resolved",
+        "Components": [
+          "Conversations"
+        ]
+      },
+      "https://status.openai.com//incidents/01KBGV0B1KYJAGHRD705NWNZXE": {
+        "Title": "Increased errors when creating new Codex tasks",
+        "PubDate": "Wed, 03 Dec 2025 01:46:36 GMT",
+        "Status": "Resolved",
+        "Components": [
+          "Codex"
+        ]
+      },
+      "https://status.openai.com//incidents/01KBG9DPEC7H4AP2ZGEFA16D6N": {
+        "Title": "Increased ChatGPT error rates",
+        "PubDate": "Tue, 02 Dec 2025 20:12:00 GMT",
+        "Status": "Resolved",
+        "Components": [
+          "Conversations"
+        ]
+      },
+      "https://status.openai.com//incidents/01KBDM937GP2XEYT7EQHWNHZZR": {
+        "Title": "Users would have experienced various conversation errors and connectivity issues",
+        "PubDate": "Mon, 01 Dec 2025 19:00:53 GMT",
+        "Status": "Resolved",
+        "Components": [
+          "Conversations"
+        ]
+      },
+      "https://status.openai.com//incidents/01KB15JTJK8W2PQXV5F4XJ36XM": {
+        "Title": "Elevated errors for ChatGPT",
+        "PubDate": "Wed, 26 Nov 2025 23:20:11 GMT",
+        "Status": "Resolved",
+        "Components": [
+          "Conversations"
+        ]
+      },
+      "https://status.openai.com//incidents/01KB0K9TRYPCZ71J2PRSAXR1G2": {
+        "Title": "ChatGPT users on web are unable to delete conversations",
+        "PubDate": "Wed, 26 Nov 2025 21:31:38 GMT",
+        "Status": "Resolved",
+        "Components": [
+          "Conversations"
+        ]
+      },
+      "https://status.openai.com//incidents/01KAYQJW0EBMW9MYYBX2WK4TP9": {
+        "Title": "Increased ChatGPT errors for some users",
+        "PubDate": "Wed, 26 Nov 2025 03:06:07 GMT",
+        "Status": "Resolved",
+        "Components": [
+          "GPTs",
+          "Agent",
+          "Deep Research",
+          "Login",
+          "Image Generation",
+          "Codex",
+          "Connectors/Apps",
+          "ChatGPT Atlas",
+          "File uploads",
+          "Voice mode",
+          "Search",
+          "Conversations",
+          "Compliance API"
+        ]
+      },
+      "https://status.openai.com//incidents/01KAY8HGFQN126T83Q8ES0F4HN": {
+        "Title": "ImageGen issues for some ChatGPT Workspaces with Non-US Data Residency",
+        "PubDate": "Tue, 25 Nov 2025 22:37:35 GMT",
+        "Status": "Resolved",
+        "Components": [
+          "Image Generation"
+        ]
+      },
+      "https://status.openai.com//incidents/01KAYA3GKDBP7FES5BB7ANZDV7": {
+        "Title": "Increased ChatGPT errors for EU, South America, and East US regions",
+        "PubDate": "Tue, 25 Nov 2025 21:14:16 GMT",
+        "Status": "Resolved",
+        "Components": [
+          "Voice mode",
+          "Search",
+          "Image Generation",
+          "Agent",
+          "Codex",
+          "Connectors/Apps",
+          "Login",
+          "File uploads",
+          "Conversations",
+          "Compliance API",
+          "GPTs",
+          "Deep Research",
+          "ChatGPT Atlas"
+        ]
+      },
+      "https://status.openai.com//incidents/01KAPG4EE5JWEV04TPZ2SNNK8X": {
+        "Title": "Elevated Errors on Codex",
+        "PubDate": "Sun, 23 Nov 2025 06:55:20 GMT",
+        "Status": "Resolved",
+        "Components": [
+          "Codex"
+        ]
+      }
+    }
+  },
+  "etag": null
+}
