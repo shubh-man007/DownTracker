@@ -1,6 +1,6 @@
 {
   "feed_state": {
-    "LastBuildDate": "Sat, 21 Feb 2026 04:16:39 GMT",
+    "LastBuildDate": "Sat, 21 Feb 2026 04:18:37 GMT",
     "ItemCount": 62,
     "Items": {
       "https://status.openai.com//incidents/01KHYH2KT8VNWS146V0S09MF29": {
@@ -119,19 +119,19 @@
         "PubDate": "Thu, 05 Feb 2026 00:48:56 GMT",
         "Status": "Resolved",
         "Components": [
-          "ChatGPT Atlas",
+          "Deep Research",
+          "Codex",
           "File uploads",
           "Voice mode",
-          "Agent",
-          "Codex",
-          "Connectors/Apps",
-          "Login",
           "Search",
           "Conversations",
+          "Agent",
+          "Connectors/Apps",
+          "ChatGPT Atlas",
+          "Login",
           "Compliance API",
           "Image Generation",
-          "GPTs",
-          "Deep Research"
+          "GPTs"
         ]
       },
       "https://status.openai.com//incidents/01KGMVV926ZSCD1MSDBS07AWYA": {
@@ -139,19 +139,19 @@
         "PubDate": "Wed, 04 Feb 2026 21:04:35 GMT",
         "Status": "Resolved",
         "Components": [
-          "Login",
           "File uploads",
+          "Search",
+          "Agent",
+          "Deep Research",
+          "Codex",
+          "Connectors/Apps",
+          "Login",
+          "Voice mode",
+          "Conversations",
           "Compliance API",
           "Image Generation",
           "GPTs",
-          "Deep Research",
-          "Connectors/Apps",
-          "ChatGPT Atlas",
-          "Voice mode",
-          "Search",
-          "Conversations",
-          "Agent",
-          "Codex"
+          "ChatGPT Atlas"
         ]
       },
       "https://status.openai.com//incidents/01KGMAYN6EHDVR9KB1CQJP4EGR": {
@@ -183,20 +183,20 @@
         "PubDate": "Tue, 03 Feb 2026 22:14:03 GMT",
         "Status": "Resolved",
         "Components": [
-          "Login",
+          "Conversations",
           "Compliance API",
-          "Image Generation",
-          "Agent",
-          "Deep Research",
+          "GPTs",
+          "Codex",
           "Connectors/Apps",
           "File uploads",
-          "Voice mode",
           "Search",
-          "Conversations",
-          "GPTs",
+          "Image Generation",
+          "Agent",
           "Login",
-          "Codex",
-          "ChatGPT Atlas"
+          "Deep Research",
+          "ChatGPT Atlas",
+          "Login",
+          "Voice mode"
         ]
       },
       "https://status.openai.com//incidents/01KG80XW6H509B6MVRE05W99SF": {
@@ -220,9 +220,9 @@
         "PubDate": "Wed, 28 Jan 2026 02:14:26 GMT",
         "Status": "Resolved",
         "Components": [
+          "Images",
           "Image Generation",
-          "Image Generation",
-          "Images"
+          "Image Generation"
         ]
       },
       "https://status.openai.com//incidents/01KFZB0A5C1D3TQED136VXFT9W": {
@@ -238,19 +238,19 @@
         "PubDate": "Mon, 26 Jan 2026 17:27:46 GMT",
         "Status": "Resolved",
         "Components": [
+          "Login",
+          "Search",
+          "Conversations",
           "Compliance API",
           "Image Generation",
           "Agent",
           "Codex",
-          "Connectors/Apps",
-          "Login",
           "File uploads",
-          "Search",
+          "Voice mode",
           "GPTs",
           "Deep Research",
-          "ChatGPT Atlas",
-          "Voice mode",
-          "Conversations"
+          "Connectors/Apps",
+          "ChatGPT Atlas"
         ]
       },
       "https://status.openai.com//incidents/01KFK1A9AAJ246K5G966PSQQJK": {
@@ -316,19 +316,19 @@
         "PubDate": "Tue, 06 Jan 2026 21:00:00 GMT",
         "Status": "Resolved",
         "Components": [
-          "Connectors/Apps",
-          "ChatGPT Atlas",
-          "File uploads",
+          "Login",
           "Voice mode",
-          "Search",
           "Conversations",
           "Compliance API",
           "Image Generation",
-          "GPTs",
           "Agent",
-          "Login",
+          "Codex",
+          "ChatGPT Atlas",
+          "File uploads",
+          "Search",
+          "GPTs",
           "Deep Research",
-          "Codex"
+          "Connectors/Apps"
         ]
       },
       "https://status.openai.com//incidents/01KE98V1TQRRQC8T1VAHH18NDC": {
@@ -354,17 +354,17 @@
         "Status": "Resolved",
         "Components": [
           "Voice mode",
-          "Search",
-          "GPTs",
-          "ChatGPT Atlas",
-          "Login",
-          "Conversations",
-          "Compliance API",
           "Image Generation",
           "Agent",
+          "Connectors/Apps",
+          "Search",
+          "Conversations",
+          "Compliance API",
+          "GPTs",
           "Deep Research",
           "Codex",
-          "Connectors/Apps",
+          "ChatGPT Atlas",
+          "Login",
           "File uploads"
         ]
       },
@@ -455,19 +455,19 @@
         "PubDate": "Wed, 10 Dec 2025 23:27:08 GMT",
         "Status": "Resolved",
         "Components": [
-          "File uploads",
+          "Conversations",
+          "Deep Research",
+          "Connectors/Apps",
+          "Login",
           "Voice mode",
           "Compliance API",
           "Image Generation",
-          "Deep Research",
-          "Codex",
-          "ChatGPT Atlas",
-          "Login",
-          "Search",
-          "Conversations",
           "GPTs",
           "Agent",
-          "Connectors/Apps"
+          "Codex",
+          "ChatGPT Atlas",
+          "File uploads",
+          "Search"
         ]
       },
       "https://status.openai.com//incidents/01KC2CJTQMDW8ZX3S4S4Q8PPNQ": {
@@ -563,19 +563,19 @@
         "PubDate": "Wed, 26 Nov 2025 03:06:07 GMT",
         "Status": "Resolved",
         "Components": [
-          "GPTs",
-          "Agent",
-          "Deep Research",
-          "Login",
           "Image Generation",
-          "Codex",
+          "Agent",
           "Connectors/Apps",
-          "ChatGPT Atlas",
           "File uploads",
           "Voice mode",
           "Search",
-          "Conversations",
-          "Compliance API"
+          "Compliance API",
+          "GPTs",
+          "Deep Research",
+          "Codex",
+          "ChatGPT Atlas",
+          "Login",
+          "Conversations"
         ]
       },
       "https://status.openai.com//incidents/01KAY8HGFQN126T83Q8ES0F4HN": {
@@ -591,18 +591,18 @@
         "PubDate": "Tue, 25 Nov 2025 21:14:16 GMT",
         "Status": "Resolved",
         "Components": [
-          "Voice mode",
-          "Search",
-          "Image Generation",
-          "Agent",
-          "Codex",
-          "Connectors/Apps",
           "Login",
-          "File uploads",
           "Conversations",
           "Compliance API",
-          "GPTs",
+          "Image Generation",
           "Deep Research",
+          "Codex",
+          "Connectors/Apps",
+          "File uploads",
+          "Voice mode",
+          "Search",
+          "GPTs",
+          "Agent",
           "ChatGPT Atlas"
         ]
       },
